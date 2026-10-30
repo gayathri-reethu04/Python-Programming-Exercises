@@ -20,11 +20,3 @@ print("Lenght of 2nd list : ",len(y))
 
 
 
-
-
-
-
-
-
-
-
